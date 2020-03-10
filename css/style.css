@@ -6,6 +6,7 @@ body {
 p {
   font-size: 50px;
   font-weight: lighter;
+  line-height: 57px;
 }
 
 h1 {
@@ -61,7 +62,6 @@ h1 {
 
 .footer-container {
   height: 200px;
-  line-height: 200px;
   color: #fff;
   padding-left: 80px;
   padding-right: 80px;
@@ -72,5 +72,5 @@ h1 {
 }
 
 .footer .logo {
-  line-height: 200px;
+  vertical-align: middle;
 }
