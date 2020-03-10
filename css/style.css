@@ -29,6 +29,7 @@ h1 {
 .image {
   height: 1080px;
   background: url(../img/img.png);
+  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
