@@ -68,10 +68,6 @@ h1 {
   padding-right: 80px;
 }
 
-.footer-container h1 {
-  text-align: right;
-}
-
 .footer-container section {
   display: inline-block;
 }
@@ -84,4 +80,5 @@ h1 {
 .footer-container .title {
   float: right;
   line-height: 200px;
+  text-align: right;
 }
