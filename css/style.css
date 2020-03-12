@@ -71,6 +71,16 @@ h1 {
   text-align: right;
 }
 
-.footer .logo {
-  vertical-align: middle;
+.footer-container section {
+  display: inline-block;
+}
+
+.footer-container .logo {
+  float: left;
+  padding-top: 77px;
+}
+
+.footer-container .title {
+  float: right;
+  line-height: 200px;
 }

@@ -1,0 +1,13 @@
+@import url(reset.css);
+
+.one {
+  height: 200px;
+  width: 200px;
+  background-color: black;
+}
+
+.two {
+  height: 200px;
+  width: 200px;
+  background-color: green;
+}
